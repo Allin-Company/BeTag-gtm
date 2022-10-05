@@ -1,0 +1,5 @@
+homepage: "https://allin.com.br"
+documentation: "https://github.com/Allin-Company/BeTag-gtm"
+versions:
+  - sha: 89e72df8fbe82fc706928a0263a53cf3b626d750
+    changeNotes: Versão inicial
